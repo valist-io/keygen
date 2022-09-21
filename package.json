@@ -2,6 +2,7 @@
   "name": "@valist/keygen",
   "version": "1.0.0",
   "description": "Easily generate ECDSA keypairs",
+  "repository": "valist-io/keygen",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
