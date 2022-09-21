@@ -4,6 +4,9 @@
   "description": "Easily generate ECDSA keypairs",
   "repository": "valist-io/keygen",
   "main": "index.js",
+  "bin": {
+    "eth": "./bin/run"
+  },
   "scripts": {
     "start": "node index.js",
     "eth": "npm run start",
