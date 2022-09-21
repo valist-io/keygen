@@ -1,6 +1,6 @@
 {
   "name": "@valist/keygen",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Easily generate ECDSA keypairs",
   "repository": "valist-io/keygen",
   "main": "index.js",
