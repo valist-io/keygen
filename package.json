@@ -1,0 +1,16 @@
+{
+  "name": "@valist/keygen",
+  "version": "1.0.0",
+  "description": "Easily generate ECDSA keypairs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "eth": "npm run start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Valist, Inc.",
+  "license": "MPL-2.0",
+  "dependencies": {
+    "ethers": "^5.7.1"
+  }
+}
